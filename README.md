@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vividha's github stats](https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+<p align='center'>![Vividha's github stats](https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)</p>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=V2dha" alt="V2dha" /> </p>
