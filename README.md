@@ -4,9 +4,9 @@ I am a computer science and engineering student interested in AI and Machine Lea
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Vvdha.svg?style=social&label=Follow%20%40Vvdha)](https://twitter.com/Vvdha)
 
 
