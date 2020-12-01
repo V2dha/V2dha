@@ -10,7 +10,6 @@ Most of the projects that I have worked on or working on can be found here. If y
 
 
 
-
 ⚡ Fun question - Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
 <!--
  Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
@@ -19,4 +18,5 @@ Most of the projects that I have worked on or working on can be found here. If y
 -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2" alt="V2dha"/> <p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=V2dha" alt="V2dha" /> </p>
+ 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Vvdha.svg?style=social&label=Follow%20%40Vvdha)](https://twitter.com/Vvdha)
