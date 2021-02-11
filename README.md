@@ -15,7 +15,7 @@ Most of the projects that I have worked on or working on can be found here. If y
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@rvividha)](https://medium.com/@rvividha)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:rvividha@gmail.com)
 -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=F6EEEE" alt="V2dha"/> <p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=V2dha&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="V2dha"/> <p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=V2dha" alt="V2dha" /> <a href="https://twitter.com/Vvdha"> <img src="https://img.shields.io/twitter/url/https/twitter.com/Vvdha.svg?style=social&label=Follow%20%40Vvdha" /> </a> </p> 
  
 
