@@ -1,6 +1,6 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <img  align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27">
-I am a junior year computer science and engineering student interested in AI and Machine Learning. Also in every new technology that is making our lives easier!
+I am a final year computer science and engineering student interested in AI and Machine Learning. Also in every new technology that is making our lives easier!
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
