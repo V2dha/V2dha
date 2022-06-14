@@ -1,4 +1,4 @@
-<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h1> Hi! </h1>
 <img  align='right' src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jDknYN0aCPtudyMf63Csj0WcqbLRuyEIHKcG7ADvf27">
 I am a final year computer science and engineering student interested in AI and Machine Learning. Also in every new technology that is making our lives easier!
 
